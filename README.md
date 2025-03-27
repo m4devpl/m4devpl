@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cyprian</h1>
-<h3 align="center">I have been passionate about programming for 10 years. I have created projects in html, css, bootstrap, angularJS, TypeScript, PHP, Microsoft AL, C#. Currently, since 2022, I work at XTRAS Sp. z o.o. Open to collaboration</h3>
+<h3 align="center">I have been passionate about programming for 10 years. I have created projects in html, css, bootstrap, angularJS, TypeScript, PHP, Microsoft AL, C#. Currently, since 2022, I work at XTRAS Sp. z o.o.
+<Br> I am open to collaboration with projects :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m4devpl&label=Profile%20views&color=0e75b6&style=flat" alt="m4devpl" /> </p>
 
