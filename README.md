@@ -8,6 +8,14 @@
 
 - 🔭 I’m currently working in **XTRAS Sp. z o.o.**
 
+- 🌱 I’m currently learning **VueJS, ExpressJS, React**
+
+- 🤝 I’m looking for help with [Partigo](https://partigo.pl)
+
+- 💬 Ask me about **Microsoft AL, Busssines Central Dynamics 365**
+
+- 📫 How to reach me **majda@partigo.pl**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/cyprian-majda-4a200428a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cyprian-majda-4a200428a" height="30" width="40" /></a>
@@ -20,3 +28,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m4devpl&show_icons=true&locale=en&layout=compact" alt="m4devpl" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m4devpl&show_icons=true&locale=en" alt="m4devpl" /></p>
+
